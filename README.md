@@ -3,3 +3,7 @@
  
 # Kodlandığı Dil = C++
 
+
+# ChangeLog
+
+15.11.2019 - Eski Loader Desteği Kalktı.
