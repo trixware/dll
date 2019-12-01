@@ -9,3 +9,5 @@
 15.11.2019 - Eski Loader Desteği Kalktı.
 
 19.11.2019 - Yeni Güncelleme Sonrası Düzeltme Uygulandı.
+
+1.12.2019  - Proje Sonlandırıldı.
